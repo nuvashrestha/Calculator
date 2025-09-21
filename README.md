@@ -1,4 +1,4 @@
-# Calculator
+# [Calculator](nuvashrestha.github.io/Calculator/)
 
 A simple, responsive calculator built with HTML, CSS, and JavaScript. Supports basic arithmetic operations and a clean UI using Bootstrap.
 
